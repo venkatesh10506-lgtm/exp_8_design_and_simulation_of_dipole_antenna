@@ -91,19 +91,22 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 
 ## Observations
 
-*(Include your own table / plots relevant to the experiment.)*
+<img width="1045" height="580" alt="image" src="https://github.com/user-attachments/assets/c717a124-04f5-477f-8ac7-48fddfd3d66b" />
+<img width="1048" height="586" alt="image" src="https://github.com/user-attachments/assets/27852b7a-1d79-4c88-8751-9d65528628f7" />
 
 
 ### Graphs
 
 * S11 vs frequency
-*(Include your own graph)*
+<img width="1047" height="592" alt="image" src="https://github.com/user-attachments/assets/0085d985-3225-4364-a578-d4a5de2d8cdf" />
+
 
 * VSWR vs frequency
-*(Include your own graph)*
+<img width="1042" height="592" alt="image" src="https://github.com/user-attachments/assets/26942f12-d0cb-450a-b7f9-187d98c5e95f" />
 
 * 2-D E-plane and H-plane radiation patterns
-*(Include your own graph)*
+<img width="1043" height="430" alt="image" src="https://github.com/user-attachments/assets/40c0a95c-168b-4b17-80e9-36b5bbefd677" />
+
 ---
 
 ## Precautions
@@ -115,14 +118,14 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 
 ## Result
  
-Resonant Frequency = GHz  
+Resonant Frequency = 2.4GHz  
 
-Return loss = dB
+Return loss = -20dB
 
-VSWR = 
+VSWR = 1.22
 
-Gain = 
+Gain = 2.15DBI
 
 ## Conclusion
 
-A half-wave dipole antenna was designed and simulated at ______ GHz using Ansys HFSS.
+A half-wave dipole antenna was designed and simulated at 2.4 GHz using Ansys HFSS.
